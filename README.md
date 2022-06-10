@@ -1,2 +1,2 @@
-# swissloyaltyprogram
-Ethereum DAPP to support the exchange of bonus points
+# SWISS LOYALTY PROGRAM
+Ethereum DAPP TO ENABLE REEDEM AND EXCHANGE OF LOYALTY POINTS
